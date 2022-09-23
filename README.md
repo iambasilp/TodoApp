@@ -10,6 +10,7 @@
 - [x] Clear all tasks
 - [x] Clear complete tasks
 - [x] Save on local storage
+- [x] Current Time show
 - [x] Show message if not task
 - [x] Custom scrollbar
 - [x] Responsivity
