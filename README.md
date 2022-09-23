@@ -1,5 +1,5 @@
 ## .preview
-![To-Do List App](https://i.ibb.co/XbzG5nM/Screenshot-80.pngL)
+![To-Do List App](https://i.ibb.co/HHvydw7/Screenshot-80.png)
 
 ## .features
 - [x] Show tasks list
