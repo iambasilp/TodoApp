@@ -15,6 +15,18 @@
 - [x] Custom scrollbar
 - [x] Responsivity
 
+
+Steps:-
+- Set to Local storage
+- get from local storage
+- update task
+- show task menu
+- delete task
+- edit task
+- filter added 
+- clear All
+- number of task
+- 
 ## .tools
 - Icons: [Remix Icon](https://remixicon.com/)
 
