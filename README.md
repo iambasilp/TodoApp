@@ -4,16 +4,16 @@
 This To Do List. Use CSS and JavaScript to create a "to-do list" to organize and prioritize your tasks. My To Do App
 
 
-## .preview
+## Preview
 
 ![To-Do List App](https://i.ibb.co/HHvydw7/Screenshot-80.png)
 
 
 ## 🛠 Skills to do
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, Git...
 
 
-## .features
+## Features
 - [x] Show tasks list
 - [x] Add new task
 - [x] Complete task
