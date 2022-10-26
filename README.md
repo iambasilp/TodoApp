@@ -56,7 +56,7 @@ Finally, discussed persisting the application state to the browser’s localStor
 
 ## Support
 
-For support, email basilxg321@gmail.com or join our Slack channel.
+For support, email basilxg321@gmail.com
 
 
 ## Authors
